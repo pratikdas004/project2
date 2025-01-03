@@ -1,3 +1,3 @@
 # New Project
 
-This is a new demo Project
+This is a new demo Project.
